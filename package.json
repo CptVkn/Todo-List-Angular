@@ -10,7 +10,7 @@
     "e2e": "ng e2e",
     "deploy": "gh-pages -d dist/angular-crash-todolist"
   },
-  "private": true,,
+  "private": true,
   "dependencies": {
     "@angular/animations": "~8.2.8",
     "@angular/common": "~8.2.8",
